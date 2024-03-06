@@ -1,0 +1,14 @@
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.AssemblyInfoInputs.cache
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.AssemblyInfo.cs
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.csproj.CoreCompileInputs.cache
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\bin\Debug\net6.0\Practice05_03_2024+SearchMethod.exe
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\bin\Debug\net6.0\Practice05_03_2024+SearchMethod.deps.json
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\bin\Debug\net6.0\Practice05_03_2024+SearchMethod.runtimeconfig.json
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\bin\Debug\net6.0\Practice05_03_2024+SearchMethod.dll
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\bin\Debug\net6.0\Practice05_03_2024+SearchMethod.pdb
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.dll
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\refint\Practice05_03_2024+SearchMethod.dll
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.pdb
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\Practice05_03_2024+SearchMethod.genruntimeconfig.cache
+C:\Users\Amirastan\Desktop\it c#\Practice05_03_2024+SearchMethod\Practice05_03_2024+SearchMethod\obj\Debug\net6.0\ref\Practice05_03_2024+SearchMethod.dll

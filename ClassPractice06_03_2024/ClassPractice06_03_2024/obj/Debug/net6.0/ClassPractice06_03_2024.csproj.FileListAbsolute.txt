@@ -1,0 +1,14 @@
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\bin\Debug\net6.0\ClassPractice06_03_2024.exe
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\bin\Debug\net6.0\ClassPractice06_03_2024.deps.json
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\bin\Debug\net6.0\ClassPractice06_03_2024.runtimeconfig.json
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\bin\Debug\net6.0\ClassPractice06_03_2024.dll
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\bin\Debug\net6.0\ClassPractice06_03_2024.pdb
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.AssemblyInfoInputs.cache
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.AssemblyInfo.cs
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.csproj.CoreCompileInputs.cache
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.dll
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\refint\ClassPractice06_03_2024.dll
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.pdb
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ClassPractice06_03_2024.genruntimeconfig.cache
+C:\Users\Amirastan\Desktop\it c#\ClassPractice06_03_2024\ClassPractice06_03_2024\obj\Debug\net6.0\ref\ClassPractice06_03_2024.dll
